@@ -14,7 +14,7 @@ public class JokesApiController {
     @Autowired
     private JokesApiService service;
 
-    @GetMapping()
+    @GetMapping("")
     public Collection<Joke> findAll(){
         return service.findAll();
     }
