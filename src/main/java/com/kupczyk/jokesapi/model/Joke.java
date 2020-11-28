@@ -17,4 +17,6 @@ public class Joke {
     private String type;
     private String question;
     private String answer;
+    private String lang;
+    private User user;
 }
