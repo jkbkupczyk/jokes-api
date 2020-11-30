@@ -385,7 +385,7 @@
   },
   {
     "id": 65,
-    "question": "Why is it unpleasant to eat a meal next to a group of basketball players?.",
+    "question": "Why is it unpleasant to eat a meal next to a group of basketball players?",
     "answer": "They dribble far too much.",
     "lang": "en"
   },
@@ -441,6 +441,726 @@
     "id": 74,
     "question": "What is the definition of the early evening news?",
     "answer": "It starts with the words 'Good evening' then spends the next half an hour tellling you why it isn't one.",
+    "lang": "en"
+  },
+  {
+    "id": 75,
+    "question": "What do you call an acid with an attitude?",
+    "answer": "A mean-o-acid!",
+    "lang": "en"
+  },
+  {
+    "id": 76,
+    "question": "What do you call a priest who becomes a lawyer?",
+    "answer": "A father-in-law!",
+    "lang": "en"
+  },
+  {
+    "id": 77,
+    "question": "What do you call birds that stick together?",
+    "answer": "Vel-crows!",
+    "lang": "en"
+  },
+  {
+    "id": 78,
+    "question": "What do you call a bagel that can fly?",
+    "answer": "A plain bagel!",
+    "lang": "en"
+  },
+  {
+    "id": 79,
+    "question": "What do you call a snobby criminal walking down the steps?",
+    "answer": "A condescending con descending!",
+    "lang": "en"
+  },
+  {
+    "id": 80,
+    "question": "What do you call an illegally parked frog?",
+    "answer": "Toad!",
+    "lang": "en"
+  },
+  {
+    "id": 81,
+    "question": "What do you call twin dinosaurs?",
+    "answer": "A pair-odactyls!",
+    "lang": "en"
+  },
+  {
+    "id": 82,
+    "question": "What do you call a pile of cats?",
+    "answer": "A meow-ntain!",
+    "lang": "en"
+  },
+  {
+    "id": 83,
+    "question": "What do you call a row of rabbits hopping away?",
+    "answer": "A receding hare line!",
+    "lang": "en"
+  },
+  {
+    "id": 84,
+    "question": "What do you call the wife of a hippie?",
+    "answer": "A Mississippi!",
+    "lang": "en"
+  },
+  {
+    "id": 85,
+    "question": "What do you call a monkey that loves Doritos?",
+    "answer": "A chipmonk!",
+    "lang": "en"
+  },
+  {
+    "id": 86,
+    "question": "What do you call a mac 'n' cheese that gets all up in your face?",
+    "answer": "Too close for comfort food!",
+    "lang": "en"
+  },
+  {
+    "id": 87,
+    "question": "What do you call a cow in an earthquake?",
+    "answer": "A milkshake!",
+    "lang": "en"
+  },
+  {
+    "id": 88,
+    "question": "What do you call a cold dog?",
+    "answer": "A chili dog!",
+    "lang": "en"
+  },
+  {
+    "id": 89,
+    "question": "What do you call a sad cup of coffee?",
+    "answer": "A depresso!",
+    "lang": "en"
+  },
+  {
+    "id": 90,
+    "question": "What do you call a dinosaur with an extensive vocabulary?",
+    "answer": "A thesaurus!",
+    "lang": "en"
+  },
+  {
+    "id": 91,
+    "question": "What do you call a dog magician?",
+    "answer": "A labracadabrador!",
+    "lang": "en"
+  },
+  {
+    "id": 92,
+    "question": "What do you call a magic owl?",
+    "answer": "Whooo-dini!",
+    "lang": "en"
+  },
+  {
+    "id": 93,
+    "question": "What do you call a cow with two legs?",
+    "answer": "Lean beef!",
+    "lang": "en"
+  },
+  {
+    "id": 94,
+    "question": "What do you call blueberries playing the guitar?",
+    "answer": "A jam session!",
+    "lang": "en"
+  },
+  {
+    "id": 95,
+    "question": "What do you call a joke you make in the shower?",
+    "answer": "A clean joke!",
+    "lang": "en"
+  },
+  {
+    "id": 96,
+    "question": "What do you call an elephant that doesn't matter?",
+    "answer": "An irrelephant!",
+    "lang": "en"
+  },
+  {
+    "id": 97,
+    "question": "What do you call a pony with a cough?",
+    "answer": "A little horse!",
+    "lang": "en"
+  },
+  {
+    "id": 98,
+    "question": "What do you call a farm that makes bad jokes?",
+    "answer": "Corny!",
+    "lang": "en"
+  },
+  {
+    "id": 99,
+    "question": "What do you call a deer that costs a dollar?",
+    "answer": "A buck!",
+    "lang": "en"
+  },
+  {
+    "id": 100,
+    "question": "What do you call a fake noodle?",
+    "answer": "Impasta!",
+    "lang": "en"
+  },
+  {
+    "id": 101,
+    "question": "What do you call a cat on the rocks?",
+    "answer": "One cool cat!",
+    "lang": "en"
+  },
+  {
+    "id": 102,
+    "question": "What do you call the fear of being trapped in a chimney?",
+    "answer": "Claus-traphobia!",
+    "lang": "en"
+  },
+  {
+    "id": 103,
+    "question": "What do you call two birds in love?",
+    "answer": "Tweethearts!",
+    "lang": "en"
+  },
+  {
+    "id": 104,
+    "question": "What do you call it when one cow spies on another?",
+    "answer": "A steak out!",
+    "lang": "en"
+  },
+  {
+    "id": 105,
+    "question": "What do you call a computer that sings?",
+    "answer": "A-Dell!",
+    "lang": "en"
+  },
+  {
+    "id": 106,
+    "question": "What do you call a bear with no teeth?",
+    "answer": "A gummy bear!",
+    "lang": "en"
+  },
+  {
+    "id": 107,
+    "question": "What do you call a man with a rubber toe?",
+    "answer": "Roberto!",
+    "lang": "en"
+  },
+  {
+    "id": 108,
+    "question": "What do you call it when a cat wins a dog show?",
+    "answer": "A cat-has-trophy!",
+    "lang": "en"
+  },
+  {
+    "id": 109,
+    "question": "What do you call a smelly Santa?",
+    "answer": "Farter Christmas!",
+    "lang": "en"
+  },
+  {
+    "id": 110,
+    "question": "What do you call a cat that likes to eat beans?",
+    "answer": "Puss 'n' Toots!",
+    "lang": "en"
+  },
+  {
+    "id": 111,
+    "question": "What do you call a clown who's in jail?",
+    "answer": "A silicon!",
+    "lang": "en"
+  },
+  {
+    "id": 112,
+    "question": "What do you call a deer with no eyes?",
+    "answer": "No eye deer!!",
+    "lang": "en"
+  },
+  {
+    "id": 113,
+    "question": "What do you call a three-footed aardvark?",
+    "answer": "A yardvark!",
+    "lang": "en"
+  },
+  {
+    "id": 114,
+    "question": "What do you call a dancing lamb?",
+    "answer": "A baaaaaa-llerina!",
+    "lang": "en"
+  },
+  {
+    "id": 115,
+    "question": "What do you call a meditating wolf?",
+    "answer": "Aware wolf!",
+    "lang": "en"
+  },
+  {
+    "id": 116,
+    "question": "What do you call a witch who lives at the beach?",
+    "answer": "A sand-witch!",
+    "lang": "en"
+  },
+  {
+    "id": 117,
+    "question": "What do you call an avocado that's been blessed by the pope?",
+    "answer": "Holy Guacamole!",
+    "lang": "en"
+  },
+  {
+    "id": 118,
+    "question": "What do you call a tiny mother?",
+    "answer": "A minimum!'",
+    "lang": "en"
+  },
+  {
+    "id": 119,
+    "question": "What do you call a person who doesn't fart in public?",
+    "answer": "A private tutor!",
+    "lang": "en"
+  },
+  {
+    "id": 120,
+    "question": "What do you call someone wearing a belt with a watch on it?",
+    "answer": "A waist of time!",
+    "lang": "en"
+  },
+  {
+    "id": 121,
+    "question": "What do you call a seagull that flies over the bay?",
+    "answer": "A bagel!",
+    "lang": "en"
+  },
+  {
+    "id": 122,
+    "question": "What do you call a fat pumpkin?",
+    "answer": "A pumpkin!",
+    "lang": "en"
+  },
+  {
+    "id": 123,
+    "question": "What do you call a factory that sells OK products?",
+    "answer": "A satisfactory!",
+    "lang": "en"
+  },
+  {
+    "id": 124,
+    "question": "What do you call a cheese that doesn't belong to you?",
+    "answer": "Nacho cheese!",
+    "lang": "en"
+  },
+  {
+    "id": 125,
+    "question": "What do you call a sleeping wolf?",
+    "answer": "An unawarewolf!",
+    "lang": "en"
+  },
+  {
+    "id": 126,
+    "question": "What do you call a bear that never wants to grow up?",
+    "answer": "Peter Panda!",
+    "lang": "en"
+  },
+  {
+    "id": 127,
+    "question": "What do you call a Jedi with one arm?",
+    "answer": "Hand Solo!",
+    "lang": "en"
+  },
+  {
+    "id": 128,
+    "question": "What do you call a sad cheese?",
+    "answer": "A Blue cheese!",
+    "lang": "en"
+  },
+  {
+    "id": 129,
+    "question": "What do you call an argument between two electric companies?",
+    "answer": "A power struggle!",
+    "lang": "en"
+  },
+  {
+    "id": 130,
+    "question": "What two things can you never eat for breakfast?",
+    "answer": "Lunch and dinner.",
+    "lang": "en"
+  },
+  {
+    "id": 131,
+    "question": "What gets wetter the more it dries?",
+    "answer": "A towel.",
+    "lang": "en"
+  },
+  {
+    "id": 132,
+    "question": "What word is spelled incorrectly in every single dictionary?",
+    "answer": "Incorrectly.",
+    "lang": "en"
+  },
+  {
+    "id": 133,
+    "question": "What never asks a question but gets answered all the time?",
+    "answer": "Your cellphone.",
+    "lang": "en"
+  },
+  {
+    "id": 134,
+    "question": "What goes up but never ever comes down?",
+    "answer": "Your age.",
+    "lang": "en"
+  },
+  {
+    "id": 135,
+    "question": "A girl fell off a 50-foot ladder but didn’t get hurtHow come?",
+    "answer": "She fell off the bottom rung.",
+    "lang": "en"
+  },
+  {
+    "id": 136,
+    "question": "What starts with “e” and ends with “e” but only has one letter in it?",
+    "answer": "An envelope.",
+    "lang": "en"
+  },
+  {
+    "id": 137,
+    "question": "How can a girl go 25 days without sleep?",
+    "answer": "She sleeps at night.",
+    "lang": "en"
+  },
+  {
+    "id": 138,
+    "question": "You spot a boat full of people but there isn’t a single person on boardHow is that possible?",
+    "answer": "Everyone on board is married.",
+    "lang": "en"
+  },
+  {
+    "id": 139,
+    "question": "How do you make the number one disappear?",
+    "answer": "Add the letter G and it’s “gone”!",
+    "lang": "en"
+  },
+  {
+    "id": 140,
+    "question": "What’s greater than God and more evil than the devilRich people want it, poor people have itAnd if you eat it, you’ll die?",
+    "answer": "Nothing.",
+    "lang": "en"
+  },
+  {
+    "id": 141,
+    "question": "A cowboy rode into town on FridayHe stayed in town for three days and rode out on FridayHow is that possible?",
+    "answer": "Friday was the name of his horse.",
+    "lang": "en"
+  },
+  {
+    "id": 142,
+    "question": "What two keys can’t open any door?",
+    "answer": "A monkey and a donkey.",
+    "lang": "en"
+  },
+  {
+    "id": 143,
+    "question": "What will you actually find at the end of every rainbow?",
+    "answer": "The letter “w.”",
+    "lang": "en"
+  },
+  {
+    "id": 144,
+    "question": "A young boy was rushed to the hospital emergency room, but the ER doctor saw the boy and refused to operate“This boy is my son,” the doctor saidBut the doctor wasn’t the boy’s fatherHow could this be?",
+    "answer": "The doctor was the boy’s mom.",
+    "lang": "en"
+  },
+  {
+    "id": 145,
+    "question": "What has a face and two hands, but no arms or legs?",
+    "answer": "A clock.",
+    "lang": "en"
+  },
+  {
+    "id": 146,
+    "question": "What can be caught but never thrown?",
+    "answer": "A cold.",
+    "lang": "en"
+  },
+  {
+    "id": 147,
+    "question": "I start out tall, but the longer I stand, the shorter I growWhat am I?",
+    "answer": "A candle.",
+    "lang": "en"
+  },
+  {
+    "id": 148,
+    "question": "How many seconds are there in a year?",
+    "answer": "Twelve. January 2nd, February 2nd, March 2nd, etc.",
+    "lang": "en"
+  },
+  {
+    "id": 149,
+    "question": "What can run but not walk?",
+    "answer": "Raindrops.",
+    "lang": "en"
+  },
+  {
+    "id": 150,
+    "question": "How many months have 28 days?",
+    "answer": "All 12!",
+    "lang": "en"
+  },
+  {
+    "id": 151,
+    "question": "Thanks to me, you can see straight through the wallWhat am I?",
+    "answer": "A window.",
+    "lang": "en"
+  },
+  {
+    "id": 152,
+    "question": "Which weighs more, a pound of feathers or a pound of bricks?",
+    "answer": "Neither. They both weigh exactly one pound.",
+    "lang": "en"
+  },
+  {
+    "id": 153,
+    "question": "How can the pocket of your pants be empty, but still have something in it?",
+    "answer": "When the something is a hole.",
+    "lang": "en"
+  },
+  {
+    "id": 154,
+    "question": "What has a thumb and four fingers but isn’t actually alive?",
+    "answer": "Your gloves.",
+    "lang": "en"
+  },
+  {
+    "id": 155,
+    "question": "Imagine you’re in a room that’s filling up with water quicklyThere are no windows or doorsHow do you get out?",
+    "answer": "Stop imagining.",
+    "lang": "en"
+  },
+  {
+    "id": 156,
+    "question": "Everyone in the world needs it, but they usually give it without taking itWhat is it?",
+    "answer": "Advice.",
+    "lang": "en"
+  },
+  {
+    "id": 157,
+    "question": "What can you hold without touching it at all?",
+    "answer": "A conversation.",
+    "lang": "en"
+  },
+  {
+    "id": 158,
+    "question": "I am an odd numberTake away one letter and I become evenWhat number am I?",
+    "answer": "Seven (take away the ‘s’ and it becomes ‘even’).",
+    "lang": "en"
+  },
+  {
+    "id": 159,
+    "question": "I’m light as a feather, but not even the strongest girl can hold me for more than 5 minutesWhat am I?",
+    "answer": "Breath.",
+    "lang": "en"
+  },
+  {
+    "id": 160,
+    "question": "Two mothers and two daughters went out to eat, everyone ate one slice of pizza, yet only three slices were eatenHow’s that possible?",
+    "answer": "The group included a grandmother, her daughter and her daughter’s daughter.",
+    "lang": "en"
+  },
+  {
+    "id": 161,
+    "question": "What 5-letter word becomes shorter when you add two letters to it?",
+    "answer": "Short.",
+    "lang": "en"
+  },
+  {
+    "id": 162,
+    "question": "Can you name three consecutive days without using the words Wednesday, Friday, and Sunday?",
+    "answer": "Yesterday, today, and tomorrow.",
+    "lang": "en"
+  },
+  {
+    "id": 163,
+    "question": "What gets sharper the more you use it?",
+    "answer": "Your brain.",
+    "lang": "en"
+  },
+  {
+    "id": 164,
+    "question": "A man was outside taking a walk when it started to rainThe man didn’t have an umbrella and he wasn’t wearing a hat or a hoodHis clothes got soaked, yet not a single hair on his head got wetHow could this be?",
+    "answer": "The man was bald.",
+    "lang": "en"
+  },
+  {
+    "id": 165,
+    "question": "What can you make that no one—not even you—can see?",
+    "answer": "Noise.",
+    "lang": "en"
+  },
+  {
+    "id": 166,
+    "question": "What belongs to you but gets used by everyone else more than you?",
+    "answer": "Your name.",
+    "lang": "en"
+  },
+  {
+    "id": 167,
+    "question": "What occurs once in a minute, twice in a moment, and never in one thousand years?",
+    "answer": "The letter M.",
+    "lang": "en"
+  },
+  {
+    "id": 168,
+    "question": "I’m so fragile that if you say my name, you’ll break meWhat am I?",
+    "answer": "Silence.",
+    "lang": "en"
+  },
+  {
+    "id": 169,
+    "question": "If I drink, I dieIf I eat, I’m fineWhat am I?",
+    "answer": "A fire.",
+    "lang": "en"
+  },
+  {
+    "id": 170,
+    "question": "What’s full of holes but can still hold liquid?",
+    "answer": "A sponge.",
+    "lang": "en"
+  },
+  {
+    "id": 171,
+    "question": "I have teeth but can’t eatWhat am I?",
+    "answer": "A comb.",
+    "lang": "en"
+  },
+  {
+    "id": 172,
+    "question": "First you throw away my outside and cook the insideThen you eat my outside and throw away my insideWhat am I?",
+    "answer": "Corn on the cob. Because you throw away the husk, cook the corn. Then you eat the kernels, and throw away the cob.",
+    "lang": "en"
+  },
+  {
+    "id": 173,
+    "question": "What runs, but never walksMurmurs, but never talksHas a bed, but never sleepsAnd has a mouth, but never eats?",
+    "answer": "A river.",
+    "lang": "en"
+  },
+  {
+    "id": 174,
+    "question": "What bird can lift the most weight?",
+    "answer": "A crane.",
+    "lang": "en"
+  },
+  {
+    "id": 175,
+    "question": "What goes up as soon as the rain comes down?",
+    "answer": "An umbrella.",
+    "lang": "en"
+  },
+  {
+    "id": 176,
+    "question": "The more you take, the more you leave behindWhat am I?",
+    "answer": "Footprints.",
+    "lang": "en"
+  },
+  {
+    "id": 177,
+    "question": "I have all the knowledge you haveBut I’m so small, you can hold me in your fistWhat am I?",
+    "answer": "Your brain.",
+    "lang": "en"
+  },
+  {
+    "id": 178,
+    "question": "How much dirt is there in a hole that’s 5 feet wide and 5 feet deep?",
+    "answer": "None.",
+    "lang": "en"
+  },
+  {
+    "id": 179,
+    "question": "What has three feet but can’t walk?",
+    "answer": "A yardstick.",
+    "lang": "en"
+  },
+  {
+    "id": 180,
+    "question": "If two’s company and three’s a crowd, what do four and five make?",
+    "answer": "Nine.",
+    "lang": "en"
+  },
+  {
+    "id": 181,
+    "question": "What travels the world while stuck in one spot?",
+    "answer": "A stamp!",
+    "lang": "en"
+  },
+  {
+    "id": 182,
+    "question": "Name four days of the week that start with the letter “t”?",
+    "answer": "Tuesday, Thursday, today, and tomorrow.",
+    "lang": "en"
+  },
+  {
+    "id": 183,
+    "question": "What has four eyes but can’t see?",
+    "answer": "Mississippi",
+    "lang": "en"
+  },
+  {
+    "id": 184,
+    "question": "What’s as big as an elephant but weighs absolutely nothing?",
+    "answer": "Its shadow.",
+    "lang": "en"
+  },
+  {
+    "id": 185,
+    "question": "What has a neck but no head?",
+    "answer": "A bottle.",
+    "lang": "en"
+  },
+  {
+    "id": 186,
+    "question": "What moves faster: heat or cold?",
+    "answer": "Heat. Because you can always catch a cold.",
+    "lang": "en"
+  },
+  {
+    "id": 187,
+    "question": "Forwards I’m heavy but backwards I’m notWhat am I?",
+    "answer": "A ton.",
+    "lang": "en"
+  },
+  {
+    "id": 188,
+    "question": "A girl leaves home and turns left three times, only to return home facing two guys wearing masksWho are the two guys?",
+    "answer": "The catcher and the umpire.",
+    "lang": "en"
+  },
+  {
+    "id": 189,
+    "question": "Beth’s mother has three daughtersOne is called Lara, the other one is SaraWhat is the name of the third daughter?",
+    "answer": "Beth.",
+    "lang": "en"
+  },
+  {
+    "id": 190,
+    "question": "What gets bigger and bigger the more you take away from it?",
+    "answer": "A hole.",
+    "lang": "en"
+  },
+  {
+    "id": 191,
+    "question": "I have one head, one foot, and four legsWhat am I?",
+    "answer": "Your bed.",
+    "lang": "en"
+  },
+  {
+    "id": 192,
+    "question": "We see it once in a year, twice in a week, and never in a dayWhat is it?",
+    "answer": "The letter “e”",
+    "lang": "en"
+  },
+  {
+    "id": 193,
+    "question": "If I have it, I don’t share itIf I share it, I don’t have itWhat is it?",
+    "answer": "A secret.",
+    "lang": "en"
+  },
+  {
+    "id": 194,
+    "question": "What has one eye but can’t see anything at all?",
+    "answer": "A needle.",
     "lang": "en"
   }
 ]
