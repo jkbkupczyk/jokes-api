@@ -40,7 +40,7 @@ public class JokesApiController {
     }
 
     @GetMapping("jokes")
-    public Map<String, Long> count(){
-        return Collections.singletonMap("total", service.count());
+    public Map<String, Long> total(){
+        return Collections.singletonMap("total", service.total());
     }
 }
