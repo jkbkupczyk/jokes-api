@@ -6,4 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface JokesApiRepository extends JpaRepository<Joke, Long> {
+
+    Iterable<Joke> findByType(String type);
 }
