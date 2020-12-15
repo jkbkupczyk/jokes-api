@@ -18,14 +18,14 @@ public class JokesApiController {
 
     @GetMapping("")
     public Collection<Joke> findAll(){
-        Joke j1 = new Joke();
+        Joke j = new Joke();
 
-        j1.setType("test");
-        j1.setQuestion("test");
-        j1.setAnswer("test");
-        j1.setLang("test");
+        j.setType("type");
+        j.setQuestion("quest");
+        j.setAnswer("answ");
+        j.setLang("en");
 
-        service.save(j1);
+        service.save(j);
 
         return service.findAll();
     }
