@@ -23,7 +23,8 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	compileOnly 'org.projectlombok:lombok'
 	compile group: 'io.springfox', name: 'springfox-boot-starter', version: '3.0.0'
-	compile group: 'com.h2database', name: 'h2', version: '1.4.200'
+	compile group: 'org.springframework.boot', name: 'spring-boot-starter-jdbc', version: '2.4.1'
+	compile group: 'org.postgresql', name: 'postgresql', version: '42.2.18'
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
