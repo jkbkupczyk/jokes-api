@@ -4,10 +4,7 @@ import com.kupczyk.jokesapi.model.Joke;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.Collection;
-import java.util.Collections;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 
 @RestController
 @RequestMapping("api")
@@ -18,12 +15,20 @@ public class JokesApiController {
 
     @GetMapping("")
     public Optional<Joke> randomJoke(){
-        return service.randomJoke();
+        return service.getRandomJoke();
     }
 
     @GetMapping("jokes")
-    public Collection<Joke> findAll(){
-        return service.findAll();
+    public Iterable<Joke> findJoke(@RequestParam(required = false) List<String> type, @RequestParam(required = false) List<String> lang){
+
+        if (type == null && lang == null){
+            return service.findAll();
+        }
+        else if (type == null){
+            return service.findByLang(lang);
+        }
+
+        return service.findByType(type);
     }
 
     @GetMapping("jokes/{id}")
@@ -31,14 +36,8 @@ public class JokesApiController {
         return service.findById(id);
     }
 
-    @GetMapping("jokes")
-    public Iterable<Joke> findByType(@RequestParam String type){
-        return service.findByType(type);
-    }
-
     @GetMapping("jokes/info")
     public Map<String, Long> total(){
-        return Collections.singletonMap("total", service.total());
+        return Collections.singletonMap("totalJokes", service.totalJokes());
     }
-
 }
