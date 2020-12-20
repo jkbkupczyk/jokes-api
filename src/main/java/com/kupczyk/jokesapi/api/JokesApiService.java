@@ -7,12 +7,20 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
+import java.util.Random;
 
 @Service
 public class JokesApiService {
 
     @Autowired
     private JokesApiRepository repository;
+
+    public Optional<Joke> randomJoke(){
+        long max = repository.count();
+        long random = (long)((Math.random() * (max - 1)) + 1);
+
+        return repository.findById(random);
+    }
 
     public List<Joke> findAll(){
         return repository.findAll();

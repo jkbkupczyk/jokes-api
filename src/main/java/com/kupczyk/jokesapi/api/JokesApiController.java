@@ -17,16 +17,12 @@ public class JokesApiController {
     private JokesApiService service;
 
     @GetMapping("")
+    public Optional<Joke> randomJoke(){
+        return service.randomJoke();
+    }
+
+    @GetMapping("jokes")
     public Collection<Joke> findAll(){
-        Joke j1 = new Joke();
-
-        j1.setType("test");
-        j1.setQuestion("test");
-        j1.setAnswer("test");
-        j1.setLang("test");
-
-        service.save(j1);
-
         return service.findAll();
     }
 
@@ -35,12 +31,14 @@ public class JokesApiController {
         return service.findById(id);
     }
 
+    @GetMapping("jokes")
     public Iterable<Joke> findByType(@RequestParam String type){
         return service.findByType(type);
     }
 
-    @GetMapping("jokes")
+    @GetMapping("jokes/info")
     public Map<String, Long> total(){
         return Collections.singletonMap("total", service.total());
     }
+
 }
