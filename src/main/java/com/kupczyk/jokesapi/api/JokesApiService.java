@@ -7,7 +7,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;
-import java.util.Random;
 
 @Service
 public class JokesApiService {
@@ -15,7 +14,7 @@ public class JokesApiService {
     @Autowired
     private JokesApiRepository repository;
 
-    public Optional<Joke> randomJoke(){
+    public Optional<Joke> getRandomJoke(){
         long max = repository.count();
         long random = (long)((Math.random() * (max - 1)) + 1);
 
@@ -30,8 +29,12 @@ public class JokesApiService {
         return repository.findById(id);
     }
 
-    public Iterable<Joke> findByType(String type) {
-        return repository.findByType(type);
+    public Iterable<Joke> findByType(List<String> type){
+        return repository.findByTypeIn(type);
+    }
+
+    public Iterable<Joke> findByLang(List<String> lang){
+        return repository.findByLangIn(lang);
     }
 
     public Joke save(Joke joke){
@@ -42,7 +45,7 @@ public class JokesApiService {
         return repository.saveAll(jokes);
     }
 
-    public Long total(){
+    public Long totalJokes(){
         return repository.count();
     }
 }
