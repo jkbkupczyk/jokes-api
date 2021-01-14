@@ -29,7 +29,7 @@ Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
 ```json
 {
     "id": 171,
-    "type": "",
+    "type": "riddle",
     "question": "I have teeth but can’t eat. What am I?",
     "answer": "A comb",
     "lang": "en"
@@ -57,14 +57,14 @@ Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
     [
         {
             "id": 1,
-            "type": "",
+            "type": "riddle",
             "question": "Why do most married men die before their wives?",
             "answer": "Because they want to",
             "lang": "en"
         },
         {   
             "id": 2,
-            "type": "",
+            "type": "riddle",
             "question": "What do diapers and Politicians have in common?",
             "answer": "They both need changing regularly - for exactly the same reason",
             "lang": "en"
@@ -90,7 +90,7 @@ Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
 ```json
 {
     "id": 69,
-    "type": "",
+    "type": "riddle",
     "question": "What is the best definition of a mixed emotion?",
     "answer": "Watching the mother-in-law reverse off a cliff driving your brand new car",
     "lang": "en"
@@ -128,14 +128,14 @@ An array of `Jokes` or singular Joke that the user has specified by query params
 [
     {
         "id": 12,
-        "type": "",
+        "type": "riddle",
         "question": "How you know that you are flying with a 'no frills' airline?",
         "answer": "You need to have the correct change to board the plane",
         "lang": "en"
     },
     {
         "id": 13,
-        "type": "",
+        "type": "riddle",
         "question": "Why do 'no frills' airlines never show movies on their flights?",
         "answer": "They don’t need to. You keep seeing your life flashing before your very eyes",
         "lang": "en"
