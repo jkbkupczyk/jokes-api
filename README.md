@@ -13,8 +13,6 @@ A single joke (may be bad).
 | answer            | String        | The answer aka. the second part of the joke |
 | lang              | String        | Language in which joke is |
 
-
-
 ## `Joke` endpoints
 
 Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
@@ -54,25 +52,26 @@ Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
 `GET /api/jokes`
 
 ##### Example response
-```json
+```
 {
-[
-    {
-        "id": 1,
-        "type": "",
-        "question": "Why do most married men die before their wives?",
-        "answer": "Because they want to",
-        "lang": "en"
-    },
-    {
-        "id": 2,
-        "type": "",
-        "question": "What do diapers and Politicians have in common?",
-        "answer": "They both need changing regularly - for exactly the same reason",
-        "lang": "en"
-    },
-    { ... }
-]
+    [
+        {
+            "id": 1,
+            "type": "",
+            "question": "Why do most married men die before their wives?",
+            "answer": "Because they want to",
+            "lang": "en"
+        },
+        {   
+            "id": 2,
+            "type": "",
+            "question": "What do diapers and Politicians have in common?",
+            "answer": "They both need changing regularly - for exactly the same reason",
+            "lang": "en"
+        },
+        { ... }
+    ]
+}
 ```
 
 ---
