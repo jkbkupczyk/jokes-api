@@ -42,7 +42,6 @@ Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
 
 ##### Example response
 ```json
-{
 [
     {
         "id": 1,
