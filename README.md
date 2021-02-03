@@ -69,7 +69,7 @@ Base URL for all endpoints: https://daily-jokes.herokuapp.com/api
             "answer": "They both need changing regularly - for exactly the same reason",
             "lang": "en"
         },
-        { ... } //More objects...
+        { ... } // More objects...
     ]
 }
 ```
