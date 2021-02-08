@@ -118,8 +118,11 @@ An array of `Jokes` or singular Joke that the user has specified by query params
 
 ##### Example request
 `GET /api/jokes?type=riddle`
+
 `GET /api/jokes?lang=en`
+
 `GET /api/jokes?lang=riddle?lang=en`
+
 `GET /api/jokes?lang=en,pl,es,de`
 
 ##### Example response
